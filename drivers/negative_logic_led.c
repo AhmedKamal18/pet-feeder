@@ -1,0 +1,14 @@
+#include "negative_logic_led.h"
+
+void NEGATIVE_LOGIC_LED_Init(uint8_t led_id){
+    gpio_init(led_id);
+    gpio_set_dir(led_id, GPIO_OUT);
+}
+
+void NEGATIVE_LOGIC_LED_On(uint8_t led_id){
+    gpio_put(led_id, 0);
+}
+
+void NEGATIVE_LOGIC_LED_Off(uint8_t led_id){
+    gpio_put(led_id, 1);
+}

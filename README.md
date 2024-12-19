@@ -1,1 +1,1 @@
-# pet-feeder
+# Pet Feeder

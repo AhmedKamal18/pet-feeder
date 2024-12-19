@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/ahmed/pico-projects/web_server/build/CMakeFiles/picotoolBuild
+/home/ahmed/pico-projects/web_server/build/CMakeFiles/picotoolBuild.rule
+/home/ahmed/pico-projects/web_server/build/CMakeFiles/picotoolBuild-complete.rule
+/home/ahmed/pico-projects/web_server/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/ahmed/pico-projects/web_server/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/ahmed/pico-projects/web_server/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/ahmed/pico-projects/web_server/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/ahmed/pico-projects/web_server/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/ahmed/pico-projects/web_server/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/ahmed/pico-projects/web_server/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/ahmed/pico-projects/web_server/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

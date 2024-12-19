@@ -1,0 +1,7 @@
+/home/ahmed/pico-projects/web_server/build/pioasm/CMakeFiles/pioasm.dir
+/home/ahmed/pico-projects/web_server/build/pioasm/CMakeFiles/edit_cache.dir
+/home/ahmed/pico-projects/web_server/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/ahmed/pico-projects/web_server/build/pioasm/CMakeFiles/list_install_components.dir
+/home/ahmed/pico-projects/web_server/build/pioasm/CMakeFiles/install.dir
+/home/ahmed/pico-projects/web_server/build/pioasm/CMakeFiles/install/local.dir
+/home/ahmed/pico-projects/web_server/build/pioasm/CMakeFiles/install/strip.dir
